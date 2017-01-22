@@ -4,7 +4,7 @@ Some practical tests with AWS ML Saas solution, including dsstne (not Saas !)
 # dsstne
 Amazon framework to build a recommander engine
 
-testes summer 2016, on AWS GPU instance
+tests on fall 2016, on AWS GPU instance
 
 Note : you need to be allowed to launch GPU instance , as remarked also in this blog post
 
@@ -17,5 +17,7 @@ http://forums.fast.ai/t/setup-problems-aws/116/4
 There was some issue to correctly recompile the fwk, but following a post from Julien Simon
 
 I could compile and launch the MovieLens example successfully.
+
+https://github.com/amznlabs/amazon-dsstne/issues/58
 
 
