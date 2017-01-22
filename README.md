@@ -20,4 +20,6 @@ I could compile and launch the MovieLens example successfully.
 
 https://github.com/amznlabs/amazon-dsstne/issues/58
 
+Multi-gpu training is very impressive.
+
 
