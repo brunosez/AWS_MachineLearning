@@ -22,4 +22,21 @@ https://github.com/amznlabs/amazon-dsstne/issues/58
 
 Multi-gpu training is very impressive.
 
+# Polly
+
+Speech to text
+
+# Rekognition
+
+CNN for image classification and more
+
+# ML
+Toolbox for developping your ML pipeline. 
+
+Sort of Dataiku DSS in Saas ??
+
+# Lex
+
+Toolbox for building chatbot, death for a lot of startup in this field :-))
+
 
